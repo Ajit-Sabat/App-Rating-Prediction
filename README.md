@@ -1,1 +1,1 @@
-# App-Rating-Predictor
+# App-Rating-Prediction
